@@ -10,7 +10,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 
 ## Overview
 
@@ -36,9 +35,10 @@ Users should be able to:
 ![](./screenshots/step4.png)
 ![](./screenshots/step5.png)
 
-<!-- ### Links
+<### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Challenge Link: (https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
+<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
