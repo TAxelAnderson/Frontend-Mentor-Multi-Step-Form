@@ -27,7 +27,7 @@ Users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/step1.png)
 ![](./screenshots/step2.png)
